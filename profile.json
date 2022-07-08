@@ -1,0 +1,81 @@
+[
+  {
+    "personal_Info": [
+      {
+        "fname": "Jayasuriya",
+        "lname": "Mohanraj",
+        "gender": "Male",
+        "email":"test@gmail.com",
+        "phn":"9791"
+      }
+    ],
+    "address": [
+      {
+        "city": "Kumbakonam",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu"
+      }
+    ],
+    "language": [
+      {
+        "firstLang": "Tamil",
+        "otherLang": "English",
+        "langProficiency": [
+          {
+            "firstLang": "Native & Biligual",
+            "otherLang": "Advanced"
+          }
+        ]
+      }
+    ],
+    "profession": "UI - Front End Developer",
+    "techSkils": [
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "Angular Material",
+      "HTML 5",
+      "CSS3",
+      "Bootstrap"
+    ],
+    "otherDesignFrm": [
+      {
+        "tailWind": "Tailwind",
+        "level": "Beginner"
+      },
+      {
+        "primeNg": "PrimeNg",
+        "level": "Beginner"
+      }
+    ],
+    "toolsAndMethodology": [
+      {
+        "vscode": "VSCode",
+        "gitHub": "GitHub",
+        "jira": "JIRA",
+        "svn": "SVN",
+        "scrum": "SCRUM",
+        "devops": "Azure CICD"
+      }
+    ],
+    "education": [
+      {
+        "ug": "Bachelor of Computer Application",
+        "yop": "2010"
+      },
+      {
+        "pg": "Master of Computer Application",
+        "yop": "Ponnaiyah Ramajayam Institute of Science and Technology"
+      }
+    ],
+    "experience": [
+      {
+        "current_desig": "Senior Softwar Consultant",
+        "current_comp": "Perficient Inc,",
+        "location": "Chennai, India",
+        "doj": "March - 2022",
+        "till": "Present"
+      }
+    ]
+  }
+]
